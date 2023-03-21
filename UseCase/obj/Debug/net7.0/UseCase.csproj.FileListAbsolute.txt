@@ -1,0 +1,15 @@
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\bin\Debug\net7.0\UseCase.deps.json
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\bin\Debug\net7.0\UseCase.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\bin\Debug\net7.0\UseCase.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\bin\Debug\net7.0\Domain.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\bin\Debug\net7.0\Domain.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.csproj.AssemblyReference.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.AssemblyInfoInputs.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.AssemblyInfo.cs
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.csproj.CoreCompileInputs.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.csproj.CopyComplete
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\refint\UseCase.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\UseCase.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\UseCase\obj\Debug\net7.0\ref\UseCase.dll

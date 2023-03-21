@@ -1,0 +1,12 @@
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\bin\Debug\net7.0\Domain.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\Domain\obj\Debug\net7.0\ref\Domain.dll

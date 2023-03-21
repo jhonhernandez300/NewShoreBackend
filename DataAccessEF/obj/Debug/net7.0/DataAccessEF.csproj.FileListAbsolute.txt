@@ -1,0 +1,15 @@
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.csproj.AssemblyReference.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.AssemblyInfoInputs.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.AssemblyInfo.cs
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.csproj.CoreCompileInputs.cache
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\bin\Debug\net7.0\DataAccessEF.deps.json
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\bin\Debug\net7.0\DataAccessEF.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\bin\Debug\net7.0\DataAccessEF.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\bin\Debug\net7.0\Domain.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\bin\Debug\net7.0\Domain.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.csproj.CopyComplete
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\refint\DataAccessEF.dll
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\DataAccessEF.pdb
+E:\Punto net Core codigo de ejemplo\NewshoreJhonHernandez\DataAccessEF\obj\Debug\net7.0\ref\DataAccessEF.dll
