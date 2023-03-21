@@ -9,37 +9,18 @@ using System.Linq.Expressions;
 
 namespace DataAccessEF.TypeRepository
 {
-    public class JourneyFlightRepository : GenericRepository<JourneyFlightRepository>, IJourneyFlightRepository
+    public class JourneyFlightRepository : GenericRepositoryJourneyFlight<JourneyFlight>, IJourneyFlightRepository
     {
         public JourneyFlightRepository(DataContext context) : base(context)
         {
 
         }
 
-        public void Add(JourneyFlight entity)
+        int IJourneyFlightRepository.GetJourneyFlight(JourneyFlight journeyFlight)
         {
-            context.JourneyFlight.Add(entity);
-            context.SaveChanges();
-        }
-
-        public IEnumerable<JourneyFlight> Find(Expression<Func<JourneyFlight, bool>> expression)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Remove(JourneyFlight entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        IEnumerable<JourneyFlight> IGenericRepository<JourneyFlight>.GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        JourneyFlight IGenericRepository<JourneyFlight>.GetById(int id)
-        {
-            throw new NotImplementedException();
+            context.JourneyFlight.GetByOriginAndDestination(journeyFlight);
+            //return context.SaveChanges();
+            return 1;
         }
 
         int IJourneyFlightRepository.SaveJourneyFlight(JourneyFlight journeyFlight)

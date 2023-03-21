@@ -51,6 +51,8 @@ namespace NewShore.Controllers
         [Route("SearchRoute")]
         public async Task<JourneyFlight> Get(string origin, string destination)
         {
+            //Check if it exist already on the database
+            //unitOfWork.Journey.
 
             var FlightsRaw = await Services.GetSearchFlight();
             if (FlightsRaw != null)
@@ -133,7 +135,7 @@ namespace NewShore.Controllers
                     journeyFlight.Flight = flights[i];
                 }
                 
-                unitOfWork.JourneyFlight.Add(journeyFlight);               
+                unitOfWork.JourneyFlight.SaveJourneyFlight(journeyFlight);               
                 
                 Ok();
                 return journeyFlight;

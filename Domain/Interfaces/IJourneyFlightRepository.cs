@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces
 {
-    public interface IJourneyFlightRepository : IGenericRepository<JourneyFlight>
+    public interface IJourneyFlightRepository : IGenericRepositoryJourneyFlight<JourneyFlight>
     {
         int SaveJourneyFlight(JourneyFlight journeyFlight);
+        int GetJourneyFlight(JourneyFlight journeyFlight);
     }
 }
